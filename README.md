@@ -1,1 +1,1 @@
-# Weather_Forecasting
+Weather Forecasting using Naive Bayes Algorithm
